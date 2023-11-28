@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\bin\Debug\net6.0\3 problems in LeetCode.exe
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\bin\Debug\net6.0\3 problems in LeetCode.deps.json
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\bin\Debug\net6.0\3 problems in LeetCode.runtimeconfig.json
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\bin\Debug\net6.0\3 problems in LeetCode.dll
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\bin\Debug\net6.0\3 problems in LeetCode.pdb
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.AssemblyInfo.cs
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.dll
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\refint\3 problems in LeetCode.dll
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.pdb
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\3 problems in LeetCode.genruntimeconfig.cache
+C:\Users\Dell\Desktop\LeetCode Problems\3 problems in LeetCode solution\3 problems in LeetCode\obj\Debug\net6.0\ref\3 problems in LeetCode.dll
